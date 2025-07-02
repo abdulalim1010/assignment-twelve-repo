@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "institution": "Gawchulka Government Primary School",
+    "degree": "Primary Education",
+    "duration": "2008 - 2013",
+    "description": "Completed foundational education with emphasis on Bengali, English, Math, and moral values.",
+    "logo": "https://i.ibb.co/5g4n6FJs/primary-logo.png",
+    "mainImage": "https://i.ibb.co/YT2BXBgk/primary.jpg"
+  },
+  {
+    "id": 2,
+    "institution": "Amantullah High School and College",
+    "degree": "Secondary School Certificate (SSC)",
+    "duration": "2014 - 2019",
+    "description": "Studied science with strong focus on physics, chemistry, mathematics, and ICT.",
+    "logo": "https://i.ibb.co/Pv6bHsQJ/highschool.png",
+    "mainImage": "https://i.ibb.co/SX8Fj6qR/highchool.jpg"
+  },
+  {
+    "id": 3,
+    "institution": "Sonapukur Surovi College",
+    "degree": "Higher Secondary Certificate (HSC)",
+    "duration": "2019 - 2021",
+    "description": "Completed HSC in science group, with focus on advanced physics, chemistry, biology, and mathematics.",
+    "logo": "https://i.ibb.co/GQgRDdS1/collegelogo.jpg",
+    "mainImage": "https://i.ibb.co/CKvwnYDp/college.jpg"
+  },
+  {
+    "id": 4,
+    "institution": "Begum Rokeya University, Rangpur",
+    "degree": "B.Sc. in Electrical and Electronic Engineering",
+    "duration": "2020 - 2024",
+    "description": "Studied core electrical, power systems, and electronics along with software tools like MATLAB and Proteus.",
+    "logo": "https://i.ibb.co/DHkmjX0z/varsitylogo.jpg",
+    "mainImage": "https://i.ibb.co/TDrN7KP2/university.jpg"
+  },
+  {
+    "id": 5,
+    "institution": "Programming Hero",
+    "degree": "Web Development Bootcamp",
+    "duration": "2023",
+    "description": "Learned full-stack web development including React, Node.js, Firebase, and MongoDB.",
+    "logo": "https://i.ibb.co/tP8ZgVcY/plogo.jpg",
+    "mainImage": "https://i.ibb.co/Z6NWnmkP/programing.jpg"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "experience": "2+ years",
+    "logo": "/assets/skills/react.png",
+    "mainImage": "/assets/skills/react-main.jpg",
+    "projects": [
+      "Portfolio Website",
+      "Messenger App",
+      "Parcel Delivery"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Tailwind CSS",
+    "experience": "2 years",
+    "logo": "/assets/skills/tailwind.png",
+    "mainImage": "/assets/skills/tailwind-main.jpg",
+    "projects": [
+      "Responsive Dashboard",
+      "Landing Page"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Firebase",
+    "experience": "1.5 years",
+    "logo": "/assets/skills/firebase.png",
+    "mainImage": "/assets/skills/firebase-main.jpg",
+    "projects": [
+      "Auth System",
+      "Real-time Chat",
+      "Storage Uploads"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "MongoDB",
+    "experience": "1 year",
+    "logo": "/assets/skills/mongodb.png",
+    "mainImage": "/assets/skills/mongodb-main.jpg",
+    "projects": [
+      "Parcel API",
+      "Blog Backend"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Java",
+    "experience": "2 years",
+    "logo": "/assets/skills/java.png",
+    "mainImage": "/assets/skills/java-main.jpg",
+    "projects": [
+      "Student Management System",
+      "OOP Lab Projects"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Python",
+    "experience": "2.5 years",
+    "logo": "/assets/skills/python.png",
+    "mainImage": "/assets/skills/python-main.jpg",
+    "projects": [
+      "Automation Scripts",
+      "Data Analysis"
+    ]
+  }
+]
