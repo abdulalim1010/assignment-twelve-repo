@@ -4,7 +4,7 @@ import Navbar from '../pages/navbar/Navbar';
 
 const MainLayout = () => {
   return (
-    <div>
+    <div >
       <Navbar/>
       <main><Outlet/></main>
       <footer></footer>

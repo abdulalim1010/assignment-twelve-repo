@@ -10,6 +10,16 @@ const Navbar = () => {
       <li><NavLink to="/address">Address</NavLink></li>
       <li><NavLink to="/study">Study</NavLink></li>
       <li><NavLink to="/skill">Skill</NavLink></li>
+      <button
+  onClick={() => {
+    const next = document.body.getAttribute("data-theme") === "forest" ? "dracula" : "forest";
+    document.body.setAttribute("data-theme", next);
+  }}
+  className="btn btn-sm btn-accent"
+>
+  Toggle Theme
+</button>
+
     </>
   );
 
